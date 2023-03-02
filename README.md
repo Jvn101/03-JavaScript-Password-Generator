@@ -1,5 +1,5 @@
 # 03-JavaScript-Password-Generator
-Website showcaing a **random password generator** that outputs passwords based on a set of criteria with options selected by the user.
+Website showcasing a **random password generator** that outputs passwords based on a set of criteria with options selected by the user.
 
  ![Password Generator](Assets/Images/Password-Generator.png) 
  
