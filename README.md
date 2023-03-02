@@ -15,7 +15,7 @@ A random password is generated based on the following questions
 # Website Link
 
  Link to the deployed site:
- [Jasmine's Portfolio](https://)
+ [Jasmine's Portfolio](https://jvn101.github.io/03-JavaScript-Password-Generator/)
 
 ***
 ### Contact us
